@@ -1,0 +1,58 @@
+{
+  "uid" : "b76a50c1932222e3",
+  "name" : "Should login with valid credentials",
+  "fullName" : "e2e Test- Login/logout Flow.Should login with valid credentials",
+  "historyId" : "84c07cdf389258e2529ca54866c95f9a",
+  "time" : {
+    "start" : 1596521291294,
+    "stop" : 1596521297843,
+    "duration" : 6549
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- Login/logout Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- Login/logout Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- Login/logout Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b76a50c1932222e3.json",
+  "parameterValues" : [ "chrome" ]
+}

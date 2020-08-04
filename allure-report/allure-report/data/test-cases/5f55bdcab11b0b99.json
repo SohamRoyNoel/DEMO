@@ -1,0 +1,58 @@
+{
+  "uid" : "5f55bdcab11b0b99",
+  "name" : "Feeling the form data",
+  "fullName" : "e2e Test- Feedback flow.Feeling the form data",
+  "historyId" : "9d2ac0e1157209262cd2b0442027e2dd",
+  "time" : {
+    "start" : 1596521283162,
+    "stop" : 1596521283934,
+    "duration" : 772
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- Feedback flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- Feedback flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Feeling the form data"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- Feedback flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5f55bdcab11b0b99.json",
+  "parameterValues" : [ "chrome" ]
+}

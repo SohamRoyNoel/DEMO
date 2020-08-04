@@ -1,0 +1,58 @@
+{
+  "uid" : "698118900eff5ffe",
+  "name" : "Open Help Section",
+  "fullName" : "e2e Test- Helper Flow.Open Help Section",
+  "historyId" : "1d020a7d525e2cdd5074b2b5c0565c09",
+  "time" : {
+    "start" : 1596521287103,
+    "stop" : 1596521292926,
+    "duration" : 5823
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- Helper Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- Helper Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Open Help Section"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- Helper Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "698118900eff5ffe.json",
+  "parameterValues" : [ "chrome" ]
+}

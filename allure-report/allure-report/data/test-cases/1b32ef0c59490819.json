@@ -1,0 +1,58 @@
+{
+  "uid" : "1b32ef0c59490819",
+  "name" : "Handle SearchBox",
+  "fullName" : "e2e Test- e2e_SearchBox_KeyboardEmulator Flow.Handle SearchBox",
+  "historyId" : "7ecd2a63bb91222f5f22d74af1db6f7f",
+  "time" : {
+    "start" : 1596521298171,
+    "stop" : 1596521304583,
+    "duration" : 6412
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-6"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- e2e_SearchBox_KeyboardEmulator Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- e2e_SearchBox_KeyboardEmulator Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Handle SearchBox"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- e2e_SearchBox_KeyboardEmulator Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b32ef0c59490819.json",
+  "parameterValues" : [ "chrome" ]
+}

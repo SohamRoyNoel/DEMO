@@ -1,0 +1,58 @@
+{
+  "uid" : "25698828e122a888",
+  "name" : "Launch Browser",
+  "fullName" : "e2e Test- CurrencyExchange Flow.Launch Browser",
+  "historyId" : "df467cd4a51fbb28fd51645c8735e48d",
+  "time" : {
+    "start" : 1596521280555,
+    "stop" : 1596521284212,
+    "duration" : 3657
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- CurrencyExchange Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- CurrencyExchange Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Launch Browser"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- CurrencyExchange Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25698828e122a888.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "d8e334afd7d7b58f",
+  "name" : "Validate Redirection",
+  "fullName" : "e2e Test- e2e_SearchBox_KeyboardEmulator Flow.Validate Redirection",
+  "historyId" : "601f1df1983d3aae5cb1e91efb0b406c",
+  "time" : {
+    "start" : 1596521304583,
+    "stop" : 1596521304608,
+    "duration" : 25
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-6"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- e2e_SearchBox_KeyboardEmulator Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- e2e_SearchBox_KeyboardEmulator Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Validate Redirection"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- e2e_SearchBox_KeyboardEmulator Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8e334afd7d7b58f.json",
+  "parameterValues" : [ "chrome" ]
+}

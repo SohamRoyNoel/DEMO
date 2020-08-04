@@ -1,0 +1,58 @@
+{
+  "uid" : "9a4e79f3b6d7cffc",
+  "name" : "Should not login with invalid credentials",
+  "fullName" : "e2e Test- Login/logout Flow.Should not login with invalid credentials",
+  "historyId" : "7d50671bbb2357903b720d81c75691dd",
+  "time" : {
+    "start" : 1596521284009,
+    "stop" : 1596521291293,
+    "duration" : 7284
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- Login/logout Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- Login/logout Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should not login with invalid credentials"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- Login/logout Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a4e79f3b6d7cffc.json",
+  "parameterValues" : [ "chrome" ]
+}

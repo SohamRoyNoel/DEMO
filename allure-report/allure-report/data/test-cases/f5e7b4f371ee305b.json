@@ -1,0 +1,56 @@
+{
+  "uid" : "f5e7b4f371ee305b",
+  "name" : "Click On Pay Bills Tab and Check Redirection",
+  "fullName" : "e2e Test- CurrencyExchange Flow.Click On Pay Bills Tab and Check Redirection",
+  "historyId" : "81d5e137de630e53911b2fbf1f8e89a6",
+  "time" : {
+    "start" : 1596521286910,
+    "stop" : 1596521288232,
+    "duration" : 1322
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- CurrencyExchange Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- CurrencyExchange Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Click On Pay Bills Tab and Check Redirection"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- CurrencyExchange Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5e7b4f371ee305b.json",
+  "parameterValues" : [ "chrome" ]
+}

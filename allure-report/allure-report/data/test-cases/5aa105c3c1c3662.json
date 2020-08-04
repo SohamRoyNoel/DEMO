@@ -1,0 +1,58 @@
+{
+  "uid" : "5aa105c3c1c3662",
+  "name" : "validating the Happy Path",
+  "fullName" : "e2e Test- FindTransaction Flow.validating the Happy Path",
+  "historyId" : "1cbb0721ee126b99753692ea384f86ed",
+  "time" : {
+    "start" : 1596521290934,
+    "stop" : 1596521292030,
+    "duration" : 1096
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- FindTransaction Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- FindTransaction Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "validating the Happy Path"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- FindTransaction Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5aa105c3c1c3662.json",
+  "parameterValues" : [ "chrome" ]
+}

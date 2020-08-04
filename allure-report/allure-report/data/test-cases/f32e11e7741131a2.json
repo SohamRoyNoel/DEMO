@@ -1,0 +1,58 @@
+{
+  "uid" : "f32e11e7741131a2",
+  "name" : "Should logout from app",
+  "fullName" : "e2e Test- Login/logout Flow.Should logout from app",
+  "historyId" : "255b0ab6daf4fa5d88cc121201814648",
+  "time" : {
+    "start" : 1596521297844,
+    "stop" : 1596521306969,
+    "duration" : 9125
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-4"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- Login/logout Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- Login/logout Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should logout from app"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- Login/logout Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f32e11e7741131a2.json",
+  "parameterValues" : [ "chrome" ]
+}

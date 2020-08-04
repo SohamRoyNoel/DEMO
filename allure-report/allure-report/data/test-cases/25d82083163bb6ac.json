@@ -1,0 +1,58 @@
+{
+  "uid" : "25d82083163bb6ac",
+  "name" : "Should login with valid credentials",
+  "fullName" : "e2e Test- CurrencyExchange Flow.Should login with valid credentials",
+  "historyId" : "a34784e74c5933033e26ff2fbc9c5830",
+  "time" : {
+    "start" : 1596521284213,
+    "stop" : 1596521286910,
+    "duration" : 2697
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- CurrencyExchange Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- CurrencyExchange Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- CurrencyExchange Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25d82083163bb6ac.json",
+  "parameterValues" : [ "chrome" ]
+}

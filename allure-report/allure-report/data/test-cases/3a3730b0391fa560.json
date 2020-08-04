@@ -1,0 +1,58 @@
+{
+  "uid" : "3a3730b0391fa560",
+  "name" : "Launch Browser",
+  "fullName" : "e2e Test- PaymentSavedPayee Flow.Launch Browser",
+  "historyId" : "6c7cc9c3dfabc67d711de5c6dc8e4664",
+  "time" : {
+    "start" : 1596521291732,
+    "stop" : 1596521294780,
+    "duration" : 3048
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- PaymentSavedPayee Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- PaymentSavedPayee Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Launch Browser"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- PaymentSavedPayee Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a3730b0391fa560.json",
+  "parameterValues" : [ "chrome" ]
+}

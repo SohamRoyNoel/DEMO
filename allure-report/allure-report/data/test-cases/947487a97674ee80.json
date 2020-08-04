@@ -1,0 +1,58 @@
+{
+  "uid" : "947487a97674ee80",
+  "name" : "Launch Browser",
+  "fullName" : "e2e Test- e2e_SearchBox_KeyboardEmulator Flow.Launch Browser",
+  "historyId" : "a78e710f9317fc1b5a56d300d8a1b5c",
+  "time" : {
+    "start" : 1596521295552,
+    "stop" : 1596521298171,
+    "duration" : 2619
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-6"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- e2e_SearchBox_KeyboardEmulator Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- e2e_SearchBox_KeyboardEmulator Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Launch Browser"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- e2e_SearchBox_KeyboardEmulator Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "947487a97674ee80.json",
+  "parameterValues" : [ "chrome" ]
+}

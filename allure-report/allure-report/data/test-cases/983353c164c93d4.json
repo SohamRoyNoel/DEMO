@@ -1,0 +1,58 @@
+{
+  "uid" : "983353c164c93d4",
+  "name" : "Launch Browser",
+  "fullName" : "e2e Test- Helper Flow.Launch Browser",
+  "historyId" : "125ea971049374026a0c9dcf7155c876",
+  "time" : {
+    "start" : 1596521280633,
+    "stop" : 1596521284364,
+    "duration" : 3731
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- Helper Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- Helper Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Launch Browser"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- Helper Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "983353c164c93d4.json",
+  "parameterValues" : [ "chrome" ]
+}

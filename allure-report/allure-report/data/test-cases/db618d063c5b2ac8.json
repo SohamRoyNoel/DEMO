@@ -1,0 +1,58 @@
+{
+  "uid" : "db618d063c5b2ac8",
+  "name" : "Redirect To FeedBack",
+  "fullName" : "e2e Test- Feedback flow.Redirect To FeedBack",
+  "historyId" : "b3b44f8198cb04e1a932dfccfbcd79df",
+  "time" : {
+    "start" : 1596521282272,
+    "stop" : 1596521283162,
+    "duration" : 890
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- Feedback flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- Feedback flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Redirect To FeedBack"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- Feedback flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db618d063c5b2ac8.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "714ca50c6b08c6fb",
+  "name" : "Checking if there is redirection when there is no Form data",
+  "fullName" : "e2e Test- Feedback flow.Checking if there is redirection when there is no Form data",
+  "historyId" : "af5828140d0186bfcfa00e6f8fc86597",
+  "time" : {
+    "start" : 1596521283934,
+    "stop" : 1596521287310,
+    "duration" : 3376
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- Feedback flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- Feedback flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Checking if there is redirection when there is no Form data"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- Feedback flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "714ca50c6b08c6fb.json",
+  "parameterValues" : [ "chrome" ]
+}

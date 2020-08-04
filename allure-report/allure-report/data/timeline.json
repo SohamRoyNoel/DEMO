@@ -1,0 +1,371 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-1",
+    "children" : [ {
+      "name" : "Feeling the form data",
+      "uid" : "5f55bdcab11b0b99",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521283162,
+        "stop" : 1596521283934,
+        "duration" : 772
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Checking if there is redirection when there is no Form data",
+      "uid" : "714ca50c6b08c6fb",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521283934,
+        "stop" : 1596521287310,
+        "duration" : 3376
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Launch Browser",
+      "uid" : "3faa77a50fe2415d",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521279460,
+        "stop" : 1596521282272,
+        "duration" : 2812
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Redirect To FeedBack",
+      "uid" : "db618d063c5b2ac8",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521282272,
+        "stop" : 1596521283162,
+        "duration" : 890
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
+  }, {
+    "name" : "0-3",
+    "children" : [ {
+      "name" : "Launch Browser",
+      "uid" : "983353c164c93d4",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521280633,
+        "stop" : 1596521284364,
+        "duration" : 3731
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Should login with valid credentials",
+      "uid" : "8470390db56c7662",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521284365,
+        "stop" : 1596521287102,
+        "duration" : 2737
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Open Help Section",
+      "uid" : "698118900eff5ffe",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521287103,
+        "stop" : 1596521292926,
+        "duration" : 5823
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "b755a79e149728f67460aea38b0710e0"
+  }, {
+    "name" : "0-4",
+    "children" : [ {
+      "name" : "Should logout from app",
+      "uid" : "f32e11e7741131a2",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521297844,
+        "stop" : 1596521306969,
+        "duration" : 9125
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Should login with valid credentials",
+      "uid" : "b76a50c1932222e3",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521291294,
+        "stop" : 1596521297843,
+        "duration" : 6549
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Should not login with invalid credentials",
+      "uid" : "9a4e79f3b6d7cffc",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521284009,
+        "stop" : 1596521291293,
+        "duration" : 7284
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Launch Browser",
+      "uid" : "e2d64f5208aeb1fe",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521280378,
+        "stop" : 1596521284009,
+        "duration" : 3631
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d"
+  }, {
+    "name" : "0-5",
+    "children" : [ {
+      "name" : "Launch Browser",
+      "uid" : "3a3730b0391fa560",
+      "parentUid" : "6ea253441b78cd38797e932a74777a9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521291732,
+        "stop" : 1596521294780,
+        "duration" : 3048
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Click On Pay Bills Tab and Check Redirection To Pay Saved Payee",
+      "uid" : "ffba55fbd3aa6a2",
+      "parentUid" : "6ea253441b78cd38797e932a74777a9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521297290,
+        "stop" : 1596521301398,
+        "duration" : 4108
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Click On Pay Bills Tab and Check Redirection",
+      "uid" : "b0679981fb0d62d0",
+      "parentUid" : "6ea253441b78cd38797e932a74777a9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521301398,
+        "stop" : 1596521305169,
+        "duration" : 3771
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Should login with valid credentials",
+      "uid" : "e0bdf908cdef56db",
+      "parentUid" : "6ea253441b78cd38797e932a74777a9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521294780,
+        "stop" : 1596521297290,
+        "duration" : 2510
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "6ea253441b78cd38797e932a74777a9c"
+  }, {
+    "name" : "0-6",
+    "children" : [ {
+      "name" : "Launch Browser",
+      "uid" : "947487a97674ee80",
+      "parentUid" : "6d5170ae525a2fb0dfa4066ed7bef924",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521295552,
+        "stop" : 1596521298171,
+        "duration" : 2619
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Handle SearchBox",
+      "uid" : "1b32ef0c59490819",
+      "parentUid" : "6d5170ae525a2fb0dfa4066ed7bef924",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521298171,
+        "stop" : 1596521304583,
+        "duration" : 6412
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Validate Redirection",
+      "uid" : "d8e334afd7d7b58f",
+      "parentUid" : "6d5170ae525a2fb0dfa4066ed7bef924",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521304583,
+        "stop" : 1596521304608,
+        "duration" : 25
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "6d5170ae525a2fb0dfa4066ed7bef924"
+  }, {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Click On Pay Bills Tab and Check Redirection",
+      "uid" : "f5e7b4f371ee305b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521286910,
+        "stop" : 1596521288232,
+        "duration" : 1322
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Should login with valid credentials",
+      "uid" : "25d82083163bb6ac",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521284213,
+        "stop" : 1596521286910,
+        "duration" : 2697
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Launch Browser",
+      "uid" : "25698828e122a888",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521280555,
+        "stop" : 1596521284212,
+        "duration" : 3657
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Click On Pay Bills Tab and Check Redirection",
+      "uid" : "e9a01aa3b4ade3cb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521288232,
+        "stop" : 1596521289625,
+        "duration" : 1393
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "0-2",
+    "children" : [ {
+      "name" : "Should login with valid credentials",
+      "uid" : "c5cf8291bd4a635c",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521283959,
+        "stop" : 1596521286800,
+        "duration" : 2841
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "validating the Happy Path",
+      "uid" : "5aa105c3c1c3662",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521290934,
+        "stop" : 1596521292030,
+        "duration" : 1096
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Launch Browser",
+      "uid" : "9ac8d1d0eb23eac0",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521280144,
+        "stop" : 1596521283959,
+        "duration" : 3815
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Click On Pay Bills Tab and Check Redirection To Pay Saved Payee",
+      "uid" : "2ba59d2df03c9e9d",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596521286800,
+        "stop" : 1596521290933,
+        "duration" : 4133
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "880a094af3dffab161e2023284569d6f"
+  } ]
+}

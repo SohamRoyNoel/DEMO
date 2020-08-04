@@ -1,0 +1,58 @@
+{
+  "uid" : "e0bdf908cdef56db",
+  "name" : "Should login with valid credentials",
+  "fullName" : "e2e Test- PaymentSavedPayee Flow.Should login with valid credentials",
+  "historyId" : "1ab09dfaed74d801f1530cb6094c48b9",
+  "time" : {
+    "start" : 1596521294780,
+    "stop" : 1596521297290,
+    "duration" : 2510
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-5"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- PaymentSavedPayee Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- PaymentSavedPayee Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- PaymentSavedPayee Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0bdf908cdef56db.json",
+  "parameterValues" : [ "chrome" ]
+}

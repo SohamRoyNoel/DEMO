@@ -1,0 +1,81 @@
+{
+  "total" : 7,
+  "items" : [ {
+    "uid" : "b660460bb37cb7ccd600d0110d225fc4",
+    "name" : "e2e Test- Feedback flow",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "fbca8aaa5d055cdce1d2d0b82db151d9",
+    "name" : "e2e Test- FindTransaction Flow",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "3735dc720980d6a812c1a0449dcfb2db",
+    "name" : "e2e Test- Login/logout Flow",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "032bb43a8191c804959d2e7f760119de",
+    "name" : "e2e Test- PaymentSavedPayee Flow",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "eb823dea7b762e8340bf0f7a7ab10ae2",
+    "name" : "e2e Test- CurrencyExchange Flow",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "55733bc3217db3ace3a8e6b54289f3bb",
+    "name" : "e2e Test- Helper Flow",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "8a928b17e091d34a597b90a68c179c58",
+    "name" : "e2e Test- e2e_SearchBox_KeyboardEmulator Flow",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  } ]
+}

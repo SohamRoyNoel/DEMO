@@ -1,0 +1,58 @@
+{
+  "uid" : "9ac8d1d0eb23eac0",
+  "name" : "Launch Browser",
+  "fullName" : "e2e Test- FindTransaction Flow.Launch Browser",
+  "historyId" : "aca6e9f6a852174425f45a4c43e9b1d7",
+  "time" : {
+    "start" : 1596521280144,
+    "stop" : 1596521283959,
+    "duration" : 3815
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- FindTransaction Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- FindTransaction Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Launch Browser"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- FindTransaction Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ac8d1d0eb23eac0.json",
+  "parameterValues" : [ "chrome" ]
+}

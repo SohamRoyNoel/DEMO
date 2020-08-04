@@ -1,0 +1,251 @@
+[ {
+  "uid" : "b76a50c1932222e3",
+  "name" : "Should login with valid credentials",
+  "time" : {
+    "start" : 1596521291294,
+    "stop" : 1596521297843,
+    "duration" : 6549
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "983353c164c93d4",
+  "name" : "Launch Browser",
+  "time" : {
+    "start" : 1596521280633,
+    "stop" : 1596521284364,
+    "duration" : 3731
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f32e11e7741131a2",
+  "name" : "Should logout from app",
+  "time" : {
+    "start" : 1596521297844,
+    "stop" : 1596521306969,
+    "duration" : 9125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2d64f5208aeb1fe",
+  "name" : "Launch Browser",
+  "time" : {
+    "start" : 1596521280378,
+    "stop" : 1596521284009,
+    "duration" : 3631
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8470390db56c7662",
+  "name" : "Should login with valid credentials",
+  "time" : {
+    "start" : 1596521284365,
+    "stop" : 1596521287102,
+    "duration" : 2737
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "947487a97674ee80",
+  "name" : "Launch Browser",
+  "time" : {
+    "start" : 1596521295552,
+    "stop" : 1596521298171,
+    "duration" : 2619
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a3730b0391fa560",
+  "name" : "Launch Browser",
+  "time" : {
+    "start" : 1596521291732,
+    "stop" : 1596521294780,
+    "duration" : 3048
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ba59d2df03c9e9d",
+  "name" : "Click On Pay Bills Tab and Check Redirection To Pay Saved Payee",
+  "time" : {
+    "start" : 1596521286800,
+    "stop" : 1596521290933,
+    "duration" : 4133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b32ef0c59490819",
+  "name" : "Handle SearchBox",
+  "time" : {
+    "start" : 1596521298171,
+    "stop" : 1596521304583,
+    "duration" : 6412
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f55bdcab11b0b99",
+  "name" : "Feeling the form data",
+  "time" : {
+    "start" : 1596521283162,
+    "stop" : 1596521283934,
+    "duration" : 772
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ffba55fbd3aa6a2",
+  "name" : "Click On Pay Bills Tab and Check Redirection To Pay Saved Payee",
+  "time" : {
+    "start" : 1596521297290,
+    "stop" : 1596521301398,
+    "duration" : 4108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5aa105c3c1c3662",
+  "name" : "validating the Happy Path",
+  "time" : {
+    "start" : 1596521290934,
+    "stop" : 1596521292030,
+    "duration" : 1096
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ac8d1d0eb23eac0",
+  "name" : "Launch Browser",
+  "time" : {
+    "start" : 1596521280144,
+    "stop" : 1596521283959,
+    "duration" : 3815
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3faa77a50fe2415d",
+  "name" : "Launch Browser",
+  "time" : {
+    "start" : 1596521279460,
+    "stop" : 1596521282272,
+    "duration" : 2812
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0bdf908cdef56db",
+  "name" : "Should login with valid credentials",
+  "time" : {
+    "start" : 1596521294780,
+    "stop" : 1596521297290,
+    "duration" : 2510
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "714ca50c6b08c6fb",
+  "name" : "Checking if there is redirection when there is no Form data",
+  "time" : {
+    "start" : 1596521283934,
+    "stop" : 1596521287310,
+    "duration" : 3376
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25698828e122a888",
+  "name" : "Launch Browser",
+  "time" : {
+    "start" : 1596521280555,
+    "stop" : 1596521284212,
+    "duration" : 3657
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a4e79f3b6d7cffc",
+  "name" : "Should not login with invalid credentials",
+  "time" : {
+    "start" : 1596521284009,
+    "stop" : 1596521291293,
+    "duration" : 7284
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5cf8291bd4a635c",
+  "name" : "Should login with valid credentials",
+  "time" : {
+    "start" : 1596521283959,
+    "stop" : 1596521286800,
+    "duration" : 2841
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25d82083163bb6ac",
+  "name" : "Should login with valid credentials",
+  "time" : {
+    "start" : 1596521284213,
+    "stop" : 1596521286910,
+    "duration" : 2697
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "698118900eff5ffe",
+  "name" : "Open Help Section",
+  "time" : {
+    "start" : 1596521287103,
+    "stop" : 1596521292926,
+    "duration" : 5823
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0679981fb0d62d0",
+  "name" : "Click On Pay Bills Tab and Check Redirection",
+  "time" : {
+    "start" : 1596521301398,
+    "stop" : 1596521305169,
+    "duration" : 3771
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8e334afd7d7b58f",
+  "name" : "Validate Redirection",
+  "time" : {
+    "start" : 1596521304583,
+    "stop" : 1596521304608,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db618d063c5b2ac8",
+  "name" : "Redirect To FeedBack",
+  "time" : {
+    "start" : 1596521282272,
+    "stop" : 1596521283162,
+    "duration" : 890
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e9a01aa3b4ade3cb",
+  "name" : "Click On Pay Bills Tab and Check Redirection",
+  "time" : {
+    "start" : 1596521288232,
+    "stop" : 1596521289625,
+    "duration" : 1393
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,58 @@
+{
+  "uid" : "2ba59d2df03c9e9d",
+  "name" : "Click On Pay Bills Tab and Check Redirection To Pay Saved Payee",
+  "fullName" : "e2e Test- FindTransaction Flow.Click On Pay Bills Tab and Check Redirection To Pay Saved Payee",
+  "historyId" : "904cfb886485ad236a6fca6c363a28ce",
+  "time" : {
+    "start" : 1596521286800,
+    "stop" : 1596521290933,
+    "duration" : 4133
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- FindTransaction Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- FindTransaction Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Click On Pay Bills Tab and Check Redirection To Pay Saved Payee"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- FindTransaction Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ba59d2df03c9e9d.json",
+  "parameterValues" : [ "chrome" ]
+}

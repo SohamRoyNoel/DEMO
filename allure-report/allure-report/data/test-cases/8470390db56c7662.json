@@ -1,0 +1,58 @@
+{
+  "uid" : "8470390db56c7662",
+  "name" : "Should login with valid credentials",
+  "fullName" : "e2e Test- Helper Flow.Should login with valid credentials",
+  "historyId" : "b6398b4864437acf3caf75aee789db92",
+  "time" : {
+    "start" : 1596521284365,
+    "stop" : 1596521287102,
+    "duration" : 2737
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- Helper Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- Helper Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- Helper Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8470390db56c7662.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "c5cf8291bd4a635c",
+  "name" : "Should login with valid credentials",
+  "fullName" : "e2e Test- FindTransaction Flow.Should login with valid credentials",
+  "historyId" : "cd0b65d4992db5943e1ef399d34c89fd",
+  "time" : {
+    "start" : 1596521283959,
+    "stop" : 1596521286800,
+    "duration" : 2841
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "e2e Test- FindTransaction Flow"
+  }, {
+    "name" : "testClass",
+    "value" : "e2e Test- FindTransaction Flow"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "e2e Test- FindTransaction Flow"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5cf8291bd4a635c.json",
+  "parameterValues" : [ "chrome" ]
+}
